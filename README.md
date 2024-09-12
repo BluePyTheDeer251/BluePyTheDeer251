@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on nothing at the moment
 - 📫 How to reach me: Nothing
 - 😄 Pronouns: he/they
-- ⚡ Fun fact: 
+- ⚡ Fun fact: my hardest tower in JToH is Tower of Unearthed Discoveries.
 
 <!---
 BluePyTheDeer251/BluePyTheDeer251 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
