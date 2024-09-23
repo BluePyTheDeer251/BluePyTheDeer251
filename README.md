@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BluePyTheDeer251
-- 👀 I’m interested in osu!, Geometry Dash...
+- 👀 I’m interested in osu!, Geometry Dash, Roblox (obbying in Juke's Towers of Hell)
 - 🌱 I’m currently learning Python, C#
 - 💞️ I’m looking to collaborate on nothing at the moment
 - 📫 How to reach me: Nothing
