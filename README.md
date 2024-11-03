@@ -19,7 +19,7 @@ Some things about me:
    3. JavaScript (30%)
    4. C# (30%)
    5. Rust (15%)
-   6. Go (5%)
+   6. Go (20%)
    7. Clojure (1%)          」
 
 **Languages I might try one day:**
