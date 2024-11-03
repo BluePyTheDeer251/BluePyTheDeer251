@@ -23,24 +23,19 @@
 
 **Things other than languages I want to learn:**
 
-「 1. JavaScript Frameworks (oh heck no pls)
-
+「 (no order)
+   1. JavaScript Frameworks (oh heck no pls)
    2. Django
-
    3. node.js/ExpressJS
-
    4. PostgreSQL
-
    5. Ethical hacking
-
    6. AI/ML                                」
 
 **Things other than languages I am good at:**
 
-「 1. Git (mostly)
-
+「 (no order of priority)
+   1. Git (mostly)
    2. Linux (my daily driver)
-
    3. Terminal usage.         」
    
 <!---
