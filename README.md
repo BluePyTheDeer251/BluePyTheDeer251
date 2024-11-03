@@ -9,6 +9,7 @@ Some things about me:
 - I am somewhat creative
 - I am mostly skilled in Python and Dart (more on that later)
 - I love "rhythm game music"
+- I am Costa Rican (you can also talk to me in Spanish)
 
 **My coding knowledge:**
 
