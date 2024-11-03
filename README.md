@@ -1,7 +1,9 @@
 Hi. I'm BluePy.
 
 Current level: Beginner
+
 Likes: Videogames, programming, AI, ML
+
 Some things about me:
 
 - I am somewhat creative
