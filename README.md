@@ -28,7 +28,7 @@
    3. node.js/ExpressJS
    4. PostgreSQL
    5. Ethical hacking
-   6. AI/ML.                                」
+   6. AI/ML                                」
 
 **Things other than languages I am good at:**
 
