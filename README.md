@@ -13,6 +13,7 @@
    7. Clojure (1%)          」
 
 **Languages I might try one day:**
+
 「 (ordered by chance)
    1. C/C++ (90%)
    2. F# (60%)
@@ -21,6 +22,7 @@
    5. APL (95%).       」
 
 **Things other than languages I want to learn:**
+
 「 1. JavaScript Frameworks (oh heck no pls)
    2. Django
    3. node.js/ExpressJS
@@ -29,6 +31,7 @@
    6. AI/ML.                                」
 
 **Things other than languages I am good at:**
+
 「 1. Git (mostly)
    2. Linux (my daily driver)
    3. Terminal usage.         」
