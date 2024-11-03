@@ -3,6 +3,7 @@ Hi. I'm BluePy.
 Current level: Beginner
 Likes: Videogames, programming, AI, ML
 Some things about me:
+
 - I am somewhat creative
 - I am mostly skilled in Python and Dart (more on that later)
 - I love "rhythm game music"
