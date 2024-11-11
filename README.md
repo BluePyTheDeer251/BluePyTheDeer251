@@ -20,7 +20,7 @@ Some things about me:
    4. C# (30%)
    5. Rust (15%)
    6. Go (20%)
-   7. Clojure (1%)          」
+   7. Clojure (20%)          」
 
 **Languages I might try one day:**
 
