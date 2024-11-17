@@ -34,7 +34,7 @@ Some things about me:
 **Things other than languages I want to learn:**
 
 「 (no order)
-   1. JavaScript Frameworks (oh heck no pls)
+   1. JavaScript Frameworks (Fell for it, either Solid, Lit, or Backbone)
    2. Django
    3. node.js/ExpressJS
    4. PostgreSQL
