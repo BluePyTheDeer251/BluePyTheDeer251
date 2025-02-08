@@ -40,8 +40,7 @@ Some things about me:
    3. node.js/ExpressJS
    4. PostgreSQL
    5. Ethical hacking
-   6. AI/ML
-   7. Flutter 」
+   6. Flutter 」
 
 **Things other than languages I am good at:**
 
